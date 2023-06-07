@@ -1,1 +1,1 @@
-# clase47
+# LibreriasconGIF
